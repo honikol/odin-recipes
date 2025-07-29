@@ -1,0 +1,33 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    border: darkblue, dotted;
+}
+
+ul{
+    background-color: aquamarine;
+    padding: 4px 4px 4px 4px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+ .food{
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(15, 64, 48);
+    margin: 4px;
+ }
+
+#lasagna a{
+    color: red;
+}
+
+#bread a{
+    color: brown;
+}
+
+#ice_cream a {
+    color: violet;
+}
